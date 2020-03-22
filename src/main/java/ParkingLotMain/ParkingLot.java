@@ -1,7 +1,10 @@
 package ParkingLotMain;
 
+import java.util.HashMap;
+
 public class ParkingLot {
-    public void showMessage() {
-        System.out.println("Welcome to Parking Lot");
+
+    public boolean park(Object vehical) {
+        return true;
     }
 }
